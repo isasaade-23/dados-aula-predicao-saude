@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+*.env
+kaggle.json
+.kaggle/
+*token*
+.DS_Store
+Thumbs.db
